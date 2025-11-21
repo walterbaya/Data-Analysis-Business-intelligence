@@ -1,0 +1,16 @@
+Meses 
+
+- Septiembre Octubre Noviembre: Habilidades
+
+- Diciembre: Proyectos
+
+
+Habilidades clave
+
+- Excel
+- SQL
+- POWER BI, TABLEAU
+- Testing
+  - Selenium
+  - Testify
+  - Robot Framework
