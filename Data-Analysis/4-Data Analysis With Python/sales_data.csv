@@ -1,0 +1,1001 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total Revenue,Region,Payment Method
+10001,2024-11-23,Electronics,iPhone 14 Pro,3,999.99,2999.97,Europe,Debit Card
+10002,2024-03-12,Electronics,iPad Pro 11,1,799.99,799.99,Australia,PayPal
+10003,2024-01-17,Electronics,iPhone 14 Pro,2,999.99,1999.98,Europe,Apple Pay
+10004,2024-11-04,Electronics,iPad Pro 11,2,799.99,1599.98,Australia,PayPal
+10005,2024-04-22,Books,Python Crash Course,3,34.99,104.97,North America,Debit Card
+10006,2024-12-23,Books,Deep Work,3,29.99,89.97,Europe,Debit Card
+10007,2024-06-21,Electronics,iPhone 14 Pro,4,999.99,3999.96,North America,Cash
+10008,2024-06-25,Clothing,Levi's 501 Jeans,4,79.99,319.96,Australia,Credit Card
+10009,2024-07-12,Electronics,iPad Pro 11,3,799.99,2399.97,Australia,Cash
+10010,2024-10-22,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,Europe,Cash
+10011,2024-02-10,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Asia,PayPal
+10012,2024-11-21,Clothing,Nike Air Force 1 Sneakers,3,109.99,329.97,Asia,Debit Card
+10013,2024-12-09,Clothing,Levi's 501 Jeans,5,79.99,399.95,Europe,Apple Pay
+10014,2024-05-05,Home Appliances,Philips Air Fryer,4,199.99,799.96,Asia,Apple Pay
+10015,2024-04-22,Clothing,Levi's 501 Jeans,2,79.99,159.98,North America,Cash
+10016,2024-07-24,Clothing,Levi's 501 Jeans,2,79.99,159.98,Australia,Cash
+10017,2024-04-18,Books,The Pragmatic Programmer,4,44.99,179.96,Europe,Cash
+10018,2024-03-12,Home Appliances,Bosch Washing Machine,5,899.99,4499.95,Asia,Apple Pay
+10019,2024-08-07,Books,Deep Work,2,29.99,59.98,Europe,Apple Pay
+10020,2024-09-09,Electronics,iPhone 14 Pro,1,999.99,999.99,Europe,Debit Card
+10021,2024-12-14,Books,Python Crash Course,1,34.99,34.99,South America,PayPal
+10022,2024-11-01,Books,Python Crash Course,3,34.99,104.97,Australia,Credit Card
+10023,2024-12-14,Electronics,iPad Pro 11,3,799.99,2399.97,Asia,Credit Card
+10024,2024-05-30,Books,Clean Code,4,39.99,159.96,North America,Cash
+10025,2024-09-13,Home Appliances,Bosch Washing Machine,1,899.99,899.99,Asia,Apple Pay
+10026,2024-11-07,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,Europe,Apple Pay
+10027,2024-09-28,Electronics,iPad Pro 11,3,799.99,2399.97,South America,Credit Card
+10028,2024-02-27,Clothing,Adidas Hoodie,2,69.99,139.98,North America,Debit Card
+10029,2024-10-17,Electronics,iPhone 14 Pro,4,999.99,3999.96,North America,Apple Pay
+10030,2024-03-05,Home Appliances,Philips Air Fryer,5,199.99,999.95,Europe,Cash
+10031,2024-09-27,Books,Clean Code,5,39.99,199.95,Europe,Cash
+10032,2024-07-23,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,South America,Credit Card
+10033,2024-05-06,Home Appliances,Dyson V11 Vacuum Cleaner,3,599.99,1799.97,North America,Apple Pay
+10034,2024-10-10,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,North America,Credit Card
+10035,2024-12-28,Electronics,Samsung Galaxy S23,1,899.99,899.99,North America,Cash
+10036,2024-02-06,Home Appliances,Samsung Microwave Oven,4,249.99,999.96,Europe,Apple Pay
+10037,2024-03-08,Books,Clean Code,4,39.99,159.96,South America,Debit Card
+10038,2024-02-18,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,South America,PayPal
+10039,2024-08-27,Electronics,iPhone 14 Pro,1,999.99,999.99,South America,Cash
+10040,2024-02-25,Home Appliances,LG Smart Refrigerator,2,1499.99,2999.98,Australia,PayPal
+10041,2024-03-12,Books,Clean Code,3,39.99,119.97,South America,Debit Card
+10042,2024-02-08,Books,Python Crash Course,1,34.99,34.99,North America,Apple Pay
+10043,2024-01-08,Electronics,Samsung Galaxy S23,2,899.99,1799.98,South America,PayPal
+10044,2024-09-03,Home Appliances,Philips Air Fryer,1,199.99,199.99,Europe,PayPal
+10045,2024-01-02,Books,Deep Work,4,29.99,119.96,Asia,PayPal
+10046,2024-12-22,Books,Clean Code,2,39.99,79.98,Asia,Debit Card
+10047,2024-01-30,Electronics,MacBook Air M2,1,1199.99,1199.99,North America,Apple Pay
+10048,2024-09-01,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,North America,Debit Card
+10049,2024-02-05,Electronics,Samsung Galaxy S23,4,899.99,3599.96,North America,Apple Pay
+10050,2024-05-06,Electronics,iPad Pro 11,1,799.99,799.99,South America,Apple Pay
+10051,2024-10-16,Clothing,Adidas Hoodie,2,69.99,139.98,Asia,Debit Card
+10052,2024-05-15,Books,Clean Code,3,39.99,119.97,South America,Cash
+10053,2024-02-07,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,Australia,Credit Card
+10054,2024-02-07,Home Appliances,Bosch Washing Machine,3,899.99,2699.97,Europe,Cash
+10055,2024-02-05,Home Appliances,Samsung Microwave Oven,3,249.99,749.97,Europe,PayPal
+10056,2024-10-05,Clothing,North Face Jacket,5,249.99,1249.95,North America,Apple Pay
+10057,2024-06-02,Electronics,Samsung Galaxy S23,3,899.99,2699.97,North America,Credit Card
+10058,2024-10-10,Home Appliances,Samsung Microwave Oven,3,249.99,749.97,Australia,Debit Card
+10059,2024-06-24,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,South America,Cash
+10060,2024-01-27,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,North America,Credit Card
+10061,2024-06-19,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,South America,Apple Pay
+10062,2024-12-27,Books,Python Crash Course,1,34.99,34.99,North America,Credit Card
+10063,2024-12-19,Home Appliances,Bosch Washing Machine,1,899.99,899.99,Asia,Apple Pay
+10064,2024-10-09,Home Appliances,Philips Air Fryer,2,199.99,399.98,North America,Cash
+10065,2024-07-05,Electronics,MacBook Air M2,2,1199.99,2399.98,Europe,Credit Card
+10066,2024-06-30,Books,Python Crash Course,2,34.99,69.98,Europe,Debit Card
+10067,2024-03-31,Books,Atomic Habits,2,24.99,49.98,Asia,PayPal
+10068,2024-12-08,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,North America,PayPal
+10069,2024-01-20,Books,Clean Code,2,39.99,79.98,South America,Cash
+10070,2024-06-05,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,Europe,PayPal
+10071,2024-06-17,Clothing,Levi's 501 Jeans,3,79.99,239.97,Asia,Apple Pay
+10072,2024-07-23,Clothing,Levi's 501 Jeans,1,79.99,79.99,Asia,Debit Card
+10073,2024-10-24,Clothing,Levi's 501 Jeans,1,79.99,79.99,Australia,PayPal
+10074,2024-06-25,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Australia,Credit Card
+10075,2024-07-16,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,South America,Credit Card
+10076,2024-09-23,Home Appliances,Samsung Microwave Oven,4,249.99,999.96,North America,Cash
+10077,2024-11-15,Clothing,Levi's 501 Jeans,3,79.99,239.97,Australia,Cash
+10078,2024-12-07,Books,Deep Work,4,29.99,119.96,Asia,Apple Pay
+10079,2024-03-06,Home Appliances,Philips Air Fryer,4,199.99,799.96,Europe,Apple Pay
+10080,2024-10-18,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,North America,Cash
+10081,2024-05-26,Home Appliances,Philips Air Fryer,5,199.99,999.95,Australia,Cash
+10082,2024-08-26,Books,The Pragmatic Programmer,2,44.99,89.98,Australia,PayPal
+10083,2024-03-27,Electronics,MacBook Air M2,5,1199.99,5999.95,Australia,Cash
+10084,2024-02-17,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,Europe,Debit Card
+10085,2024-01-13,Electronics,Samsung Galaxy S23,4,899.99,3599.96,Australia,Credit Card
+10086,2024-08-21,Books,Python Crash Course,2,34.99,69.98,South America,PayPal
+10087,2024-07-23,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,North America,PayPal
+10088,2024-04-22,Home Appliances,Bosch Washing Machine,4,899.99,3599.96,North America,Apple Pay
+10089,2024-05-07,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,South America,Apple Pay
+10090,2024-10-13,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Australia,PayPal
+10091,2024-10-07,Books,Clean Code,4,39.99,159.96,South America,Cash
+10092,2024-05-06,Clothing,North Face Jacket,4,249.99,999.96,Europe,Cash
+10093,2024-08-13,Electronics,MacBook Air M2,2,1199.99,2399.98,Asia,Cash
+10094,2024-06-12,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Europe,PayPal
+10095,2024-12-21,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,South America,PayPal
+10096,2024-06-18,Books,The Pragmatic Programmer,1,44.99,44.99,Europe,PayPal
+10097,2024-07-18,Electronics,iPad Pro 11,4,799.99,3199.96,South America,Credit Card
+10098,2024-06-29,Clothing,Uniqlo Cotton T-Shirt,4,19.99,79.96,Australia,Apple Pay
+10099,2024-11-04,Home Appliances,Philips Air Fryer,2,199.99,399.98,Asia,PayPal
+10100,2024-09-05,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,South America,Debit Card
+10101,2024-08-27,Home Appliances,Bosch Washing Machine,5,899.99,4499.95,North America,PayPal
+10102,2024-10-30,Electronics,iPhone 14 Pro,4,999.99,3999.96,Europe,PayPal
+10103,2024-04-03,Electronics,MacBook Air M2,4,1199.99,4799.96,Asia,Debit Card
+10104,2024-08-20,Clothing,Adidas Hoodie,4,69.99,279.96,Asia,PayPal
+10105,2024-05-09,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,Australia,Credit Card
+10106,2024-06-28,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,North America,Debit Card
+10107,2024-04-12,Electronics,iPad Pro 11,2,799.99,1599.98,Europe,Debit Card
+10108,2024-08-30,Electronics,iPad Pro 11,2,799.99,1599.98,South America,Cash
+10109,2024-07-07,Home Appliances,Bosch Washing Machine,5,899.99,4499.95,North America,Debit Card
+10110,2024-06-08,Electronics,iPad Pro 11,1,799.99,799.99,Asia,Apple Pay
+10111,2024-12-12,Books,The Pragmatic Programmer,2,44.99,89.98,North America,Apple Pay
+10112,2024-12-19,Home Appliances,Dyson V11 Vacuum Cleaner,3,599.99,1799.97,Australia,Credit Card
+10113,2024-10-16,Electronics,MacBook Air M2,5,1199.99,5999.95,South America,Cash
+10114,2024-02-05,Clothing,Levi's 501 Jeans,4,79.99,319.96,South America,Credit Card
+10115,2024-08-09,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,South America,Debit Card
+10116,2024-09-24,Clothing,North Face Jacket,5,249.99,1249.95,South America,PayPal
+10117,2024-08-11,Clothing,Adidas Hoodie,2,69.99,139.98,North America,Cash
+10118,2024-08-18,Home Appliances,Philips Air Fryer,5,199.99,999.95,Australia,PayPal
+10119,2024-06-21,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,Europe,PayPal
+10120,2024-04-18,Clothing,Adidas Hoodie,3,69.99,209.97,Asia,Apple Pay
+10121,2024-12-25,Clothing,North Face Jacket,1,249.99,249.99,Australia,Debit Card
+10122,2024-02-13,Home Appliances,Philips Air Fryer,4,199.99,799.96,Australia,Debit Card
+10123,2024-12-19,Books,The Pragmatic Programmer,4,44.99,179.96,North America,Credit Card
+10124,2024-05-30,Home Appliances,Philips Air Fryer,2,199.99,399.98,Asia,Apple Pay
+10125,2024-07-07,Books,Python Crash Course,5,34.99,174.95,Asia,PayPal
+10126,2024-10-08,Clothing,Adidas Hoodie,4,69.99,279.96,Asia,Cash
+10127,2024-05-08,Home Appliances,Dyson V11 Vacuum Cleaner,2,599.99,1199.98,Asia,Credit Card
+10128,2024-10-01,Home Appliances,LG Smart Refrigerator,2,1499.99,2999.98,South America,Cash
+10129,2024-10-28,Clothing,Levi's 501 Jeans,2,79.99,159.98,Asia,Debit Card
+10130,2024-07-03,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Australia,Debit Card
+10131,2024-05-20,Electronics,iPhone 14 Pro,5,999.99,4999.95,Asia,Debit Card
+10132,2024-11-22,Books,Atomic Habits,1,24.99,24.99,Australia,Cash
+10133,2024-08-28,Books,The Pragmatic Programmer,3,44.99,134.97,Europe,Credit Card
+10134,2024-05-09,Books,Atomic Habits,1,24.99,24.99,South America,PayPal
+10135,2024-02-07,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Australia,Cash
+10136,2024-02-13,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,South America,Apple Pay
+10137,2024-11-01,Home Appliances,Bosch Washing Machine,4,899.99,3599.96,South America,PayPal
+10138,2024-06-01,Books,Deep Work,5,29.99,149.95,Australia,Credit Card
+10139,2024-11-08,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Asia,Credit Card
+10140,2024-03-21,Home Appliances,LG Smart Refrigerator,5,1499.99,7499.95,North America,Debit Card
+10141,2024-01-02,Books,The Pragmatic Programmer,5,44.99,224.95,South America,Cash
+10142,2024-01-17,Home Appliances,Samsung Microwave Oven,3,249.99,749.97,South America,Credit Card
+10143,2024-12-17,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Europe,PayPal
+10144,2024-02-28,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,Europe,Credit Card
+10145,2024-01-31,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Australia,Cash
+10146,2024-08-12,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,South America,Cash
+10147,2024-09-13,Books,The Pragmatic Programmer,1,44.99,44.99,Australia,Credit Card
+10148,2024-08-09,Clothing,North Face Jacket,3,249.99,749.97,North America,Credit Card
+10149,2024-04-27,Electronics,MacBook Air M2,5,1199.99,5999.95,North America,Debit Card
+10150,2024-08-28,Books,Deep Work,2,29.99,59.98,Australia,PayPal
+10151,2024-11-21,Books,Atomic Habits,4,24.99,99.96,Asia,PayPal
+10152,2024-06-19,Clothing,Levi's 501 Jeans,2,79.99,159.98,Asia,PayPal
+10153,2024-12-21,Books,Deep Work,4,29.99,119.96,Australia,Credit Card
+10154,2024-08-20,Electronics,MacBook Air M2,3,1199.99,3599.97,Asia,Credit Card
+10155,2024-07-25,Electronics,iPad Pro 11,4,799.99,3199.96,South America,Credit Card
+10156,2024-04-06,Clothing,North Face Jacket,4,249.99,999.96,South America,Credit Card
+10157,2024-04-14,Clothing,North Face Jacket,2,249.99,499.98,Asia,PayPal
+10158,2024-12-23,Books,Atomic Habits,1,24.99,24.99,Australia,Debit Card
+10159,2024-12-29,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,North America,Apple Pay
+10160,2024-07-27,Electronics,Samsung Galaxy S23,1,899.99,899.99,South America,Credit Card
+10161,2024-11-27,Home Appliances,Philips Air Fryer,3,199.99,599.97,Australia,Cash
+10162,2024-07-31,Books,The Pragmatic Programmer,2,44.99,89.98,South America,Apple Pay
+10163,2024-03-15,Books,Clean Code,5,39.99,199.95,Australia,Debit Card
+10164,2024-02-05,Clothing,Uniqlo Cotton T-Shirt,3,19.99,59.97,Australia,Cash
+10165,2024-01-02,Clothing,Adidas Hoodie,5,69.99,349.95,Australia,PayPal
+10166,2024-03-17,Books,Python Crash Course,4,34.99,139.96,Asia,Cash
+10167,2024-10-09,Books,The Pragmatic Programmer,3,44.99,134.97,Europe,Debit Card
+10168,2024-10-19,Books,Clean Code,4,39.99,159.96,North America,Cash
+10169,2024-08-30,Books,The Pragmatic Programmer,2,44.99,89.98,South America,Credit Card
+10170,2024-03-05,Clothing,Levi's 501 Jeans,4,79.99,319.96,North America,Apple Pay
+10171,2024-08-21,Electronics,Samsung Galaxy S23,4,899.99,3599.96,Europe,Credit Card
+10172,2024-08-28,Clothing,Adidas Hoodie,5,69.99,349.95,South America,Credit Card
+10173,2024-06-17,Books,Deep Work,4,29.99,119.96,Australia,Credit Card
+10174,2024-11-12,Electronics,Samsung Galaxy S23,3,899.99,2699.97,Europe,Credit Card
+10175,2024-08-10,Electronics,iPhone 14 Pro,4,999.99,3999.96,Europe,Cash
+10176,2024-01-15,Electronics,MacBook Air M2,1,1199.99,1199.99,Asia,Cash
+10177,2024-07-10,Books,Clean Code,2,39.99,79.98,Australia,PayPal
+10178,2024-10-16,Home Appliances,LG Smart Refrigerator,2,1499.99,2999.98,North America,Apple Pay
+10179,2024-07-14,Home Appliances,Philips Air Fryer,5,199.99,999.95,Europe,Debit Card
+10180,2024-08-24,Clothing,Uniqlo Cotton T-Shirt,3,19.99,59.97,North America,PayPal
+10181,2024-05-27,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Asia,Apple Pay
+10182,2024-06-02,Books,Deep Work,4,29.99,119.96,Asia,Debit Card
+10183,2024-07-15,Books,Atomic Habits,2,24.99,49.98,South America,Apple Pay
+10184,2024-07-02,Clothing,Adidas Hoodie,1,69.99,69.99,South America,Cash
+10185,2024-01-05,Electronics,iPad Pro 11,4,799.99,3199.96,Asia,Debit Card
+10186,2024-11-06,Clothing,Nike Air Force 1 Sneakers,2,109.99,219.98,Australia,Cash
+10187,2024-12-13,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,Asia,PayPal
+10188,2024-01-18,Clothing,Nike Air Force 1 Sneakers,1,109.99,109.99,Asia,Cash
+10189,2024-07-31,Home Appliances,LG Smart Refrigerator,2,1499.99,2999.98,Australia,Cash
+10190,2024-09-28,Clothing,Nike Air Force 1 Sneakers,3,109.99,329.97,South America,Cash
+10191,2024-06-22,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,Europe,Debit Card
+10192,2024-12-12,Books,Python Crash Course,3,34.99,104.97,North America,PayPal
+10193,2024-01-08,Clothing,North Face Jacket,1,249.99,249.99,South America,Cash
+10194,2024-12-10,Clothing,North Face Jacket,4,249.99,999.96,Asia,Credit Card
+10195,2024-12-11,Home Appliances,Philips Air Fryer,1,199.99,199.99,Australia,Apple Pay
+10196,2024-06-16,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Asia,PayPal
+10197,2024-02-29,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,Asia,PayPal
+10198,2024-02-29,Electronics,Samsung Galaxy S23,5,899.99,4499.95,Europe,PayPal
+10199,2024-08-20,Clothing,North Face Jacket,4,249.99,999.96,Australia,Debit Card
+10200,2024-07-31,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,South America,Cash
+10201,2024-01-17,Clothing,Nike Air Force 1 Sneakers,4,109.99,439.96,South America,Debit Card
+10202,2024-07-04,Electronics,MacBook Air M2,5,1199.99,5999.95,Asia,Credit Card
+10203,2024-07-22,Clothing,Nike Air Force 1 Sneakers,1,109.99,109.99,South America,Credit Card
+10204,2024-12-05,Home Appliances,Bosch Washing Machine,1,899.99,899.99,North America,Cash
+10205,2024-05-04,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,North America,Apple Pay
+10206,2024-04-16,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,Europe,Apple Pay
+10207,2024-01-02,Clothing,Nike Air Force 1 Sneakers,2,109.99,219.98,Australia,Cash
+10208,2024-03-30,Electronics,iPhone 14 Pro,2,999.99,1999.98,North America,Cash
+10209,2024-05-01,Clothing,Levi's 501 Jeans,2,79.99,159.98,Asia,Credit Card
+10210,2024-03-05,Books,Python Crash Course,1,34.99,34.99,North America,PayPal
+10211,2024-08-17,Clothing,North Face Jacket,5,249.99,1249.95,North America,PayPal
+10212,2024-09-14,Home Appliances,Bosch Washing Machine,1,899.99,899.99,Australia,Cash
+10213,2024-08-22,Electronics,iPhone 14 Pro,4,999.99,3999.96,South America,PayPal
+10214,2024-12-17,Electronics,Sony WH-1000XM5 Headphones,4,399.99,1599.96,North America,Credit Card
+10215,2024-06-13,Home Appliances,Dyson V11 Vacuum Cleaner,2,599.99,1199.98,Asia,Apple Pay
+10216,2024-11-20,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Australia,Cash
+10217,2024-08-20,Books,Atomic Habits,1,24.99,24.99,Australia,Debit Card
+10218,2024-08-08,Books,Clean Code,4,39.99,159.96,Asia,PayPal
+10219,2024-07-23,Books,Atomic Habits,3,24.99,74.97,South America,Cash
+10220,2024-12-06,Clothing,Adidas Hoodie,2,69.99,139.98,South America,Credit Card
+10221,2024-02-16,Electronics,iPhone 14 Pro,4,999.99,3999.96,North America,Cash
+10222,2024-03-07,Electronics,iPad Pro 11,5,799.99,3999.95,Australia,Cash
+10223,2024-12-09,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,South America,Credit Card
+10224,2024-05-27,Clothing,Adidas Hoodie,1,69.99,69.99,Australia,Apple Pay
+10225,2024-04-18,Home Appliances,Philips Air Fryer,2,199.99,399.98,North America,Cash
+10226,2024-10-11,Clothing,Levi's 501 Jeans,3,79.99,239.97,Australia,Debit Card
+10227,2024-08-07,Electronics,iPad Pro 11,3,799.99,2399.97,North America,Debit Card
+10228,2024-05-19,Clothing,Adidas Hoodie,3,69.99,209.97,North America,Debit Card
+10229,2024-03-14,Books,Atomic Habits,2,24.99,49.98,North America,Credit Card
+10230,2024-09-28,Home Appliances,Philips Air Fryer,4,199.99,799.96,South America,Cash
+10231,2024-03-21,Clothing,Adidas Hoodie,3,69.99,209.97,Australia,Apple Pay
+10232,2024-02-13,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Australia,Credit Card
+10233,2024-12-11,Electronics,MacBook Air M2,4,1199.99,4799.96,South America,PayPal
+10234,2024-11-06,Books,The Pragmatic Programmer,3,44.99,134.97,Europe,Apple Pay
+10235,2024-02-28,Clothing,Uniqlo Cotton T-Shirt,1,19.99,19.99,Asia,Apple Pay
+10236,2024-09-06,Clothing,Levi's 501 Jeans,2,79.99,159.98,South America,Apple Pay
+10237,2024-01-29,Electronics,Samsung Galaxy S23,3,899.99,2699.97,Europe,Debit Card
+10238,2024-05-10,Clothing,Adidas Hoodie,1,69.99,69.99,North America,PayPal
+10239,2024-08-08,Home Appliances,LG Smart Refrigerator,4,1499.99,5999.96,Australia,Debit Card
+10240,2024-09-13,Clothing,Levi's 501 Jeans,4,79.99,319.96,North America,PayPal
+10241,2024-01-10,Books,Atomic Habits,3,24.99,74.97,Australia,PayPal
+10242,2024-10-20,Books,The Pragmatic Programmer,3,44.99,134.97,North America,PayPal
+10243,2024-01-11,Clothing,Nike Air Force 1 Sneakers,5,109.99,549.95,South America,Cash
+10244,2024-02-15,Books,Atomic Habits,2,24.99,49.98,South America,Apple Pay
+10245,2024-07-24,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,Asia,Debit Card
+10246,2024-06-19,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,North America,Apple Pay
+10247,2024-09-18,Home Appliances,Samsung Microwave Oven,3,249.99,749.97,Europe,Debit Card
+10248,2024-02-22,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,Europe,Apple Pay
+10249,2024-03-19,Electronics,Samsung Galaxy S23,4,899.99,3599.96,South America,Apple Pay
+10250,2024-10-23,Books,Python Crash Course,5,34.99,174.95,Asia,Cash
+10251,2024-03-18,Books,Atomic Habits,4,24.99,99.96,South America,Cash
+10252,2024-05-20,Electronics,MacBook Air M2,5,1199.99,5999.95,North America,Cash
+10253,2024-08-24,Books,Atomic Habits,1,24.99,24.99,Asia,Cash
+10254,2024-02-09,Electronics,iPad Pro 11,5,799.99,3999.95,Australia,PayPal
+10255,2024-08-24,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,Europe,Cash
+10256,2024-11-05,Books,Python Crash Course,2,34.99,69.98,North America,PayPal
+10257,2024-02-22,Clothing,Levi's 501 Jeans,5,79.99,399.95,Europe,Credit Card
+10258,2024-05-06,Books,The Pragmatic Programmer,5,44.99,224.95,Australia,Apple Pay
+10259,2024-03-22,Clothing,Adidas Hoodie,3,69.99,209.97,South America,PayPal
+10260,2024-06-22,Electronics,MacBook Air M2,1,1199.99,1199.99,Asia,Credit Card
+10261,2024-10-12,Books,Deep Work,3,29.99,89.97,Australia,Debit Card
+10262,2024-06-19,Electronics,iPad Pro 11,2,799.99,1599.98,Asia,Cash
+10263,2024-12-01,Books,Clean Code,5,39.99,199.95,North America,Cash
+10264,2024-10-13,Books,Deep Work,2,29.99,59.98,Australia,Credit Card
+10265,2024-11-26,Books,Python Crash Course,3,34.99,104.97,North America,Cash
+10266,2024-06-07,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,South America,Debit Card
+10267,2024-04-25,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,Asia,Credit Card
+10268,2024-09-16,Electronics,MacBook Air M2,5,1199.99,5999.95,Europe,Apple Pay
+10269,2024-07-11,Home Appliances,LG Smart Refrigerator,2,1499.99,2999.98,Australia,Debit Card
+10270,2024-08-12,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,Europe,PayPal
+10271,2024-11-08,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Australia,Debit Card
+10272,2024-06-07,Books,Clean Code,3,39.99,119.97,Australia,PayPal
+10273,2024-08-24,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Australia,PayPal
+10274,2024-03-23,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,Asia,Credit Card
+10275,2024-11-24,Books,Deep Work,5,29.99,149.95,North America,Apple Pay
+10276,2024-03-04,Clothing,Levi's 501 Jeans,2,79.99,159.98,Asia,PayPal
+10277,2024-09-19,Home Appliances,Philips Air Fryer,1,199.99,199.99,Europe,PayPal
+10278,2024-06-27,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,South America,Apple Pay
+10279,2024-07-10,Home Appliances,Philips Air Fryer,1,199.99,199.99,Asia,Debit Card
+10280,2024-01-15,Clothing,Levi's 501 Jeans,3,79.99,239.97,Europe,Debit Card
+10281,2024-01-20,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,South America,PayPal
+10282,2024-11-11,Electronics,iPhone 14 Pro,1,999.99,999.99,Asia,Debit Card
+10283,2024-03-17,Books,Atomic Habits,3,24.99,74.97,Europe,Cash
+10284,2024-03-03,Electronics,Samsung Galaxy S23,4,899.99,3599.96,Australia,PayPal
+10285,2024-02-02,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,Australia,Credit Card
+10286,2024-11-19,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,South America,Credit Card
+10287,2024-11-10,Clothing,Nike Air Force 1 Sneakers,5,109.99,549.95,South America,Debit Card
+10288,2024-12-06,Electronics,iPad Pro 11,3,799.99,2399.97,North America,Apple Pay
+10289,2024-10-05,Electronics,Sony WH-1000XM5 Headphones,4,399.99,1599.96,North America,PayPal
+10290,2024-07-10,Clothing,Levi's 501 Jeans,3,79.99,239.97,North America,Cash
+10291,2024-05-03,Electronics,iPad Pro 11,3,799.99,2399.97,Europe,Credit Card
+10292,2024-06-29,Clothing,Nike Air Force 1 Sneakers,4,109.99,439.96,South America,Debit Card
+10293,2024-03-10,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,Asia,Debit Card
+10294,2024-01-23,Home Appliances,Dyson V11 Vacuum Cleaner,3,599.99,1799.97,Asia,Apple Pay
+10295,2024-07-22,Books,Deep Work,1,29.99,29.99,Europe,Cash
+10296,2024-07-01,Electronics,MacBook Air M2,3,1199.99,3599.97,North America,Cash
+10297,2024-08-11,Books,The Pragmatic Programmer,4,44.99,179.96,Asia,Debit Card
+10298,2024-09-11,Books,Deep Work,5,29.99,149.95,Asia,Credit Card
+10299,2024-08-05,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,Europe,Apple Pay
+10300,2024-05-30,Clothing,Levi's 501 Jeans,1,79.99,79.99,Asia,Cash
+10301,2024-06-05,Books,Python Crash Course,4,34.99,139.96,Europe,PayPal
+10302,2024-06-28,Books,Atomic Habits,3,24.99,74.97,Australia,PayPal
+10303,2024-05-20,Electronics,iPhone 14 Pro,4,999.99,3999.96,Asia,Apple Pay
+10304,2024-12-13,Home Appliances,Dyson V11 Vacuum Cleaner,2,599.99,1199.98,Australia,PayPal
+10305,2024-01-18,Home Appliances,Dyson V11 Vacuum Cleaner,2,599.99,1199.98,Asia,Cash
+10306,2024-07-15,Electronics,iPad Pro 11,2,799.99,1599.98,South America,Cash
+10307,2024-07-09,Books,Atomic Habits,5,24.99,124.95,Europe,Apple Pay
+10308,2024-07-06,Books,Deep Work,3,29.99,89.97,Europe,Credit Card
+10309,2024-01-14,Home Appliances,Philips Air Fryer,5,199.99,999.95,South America,Apple Pay
+10310,2024-03-01,Clothing,Adidas Hoodie,4,69.99,279.96,Europe,Apple Pay
+10311,2024-05-26,Books,Clean Code,1,39.99,39.99,Europe,Credit Card
+10312,2024-08-19,Home Appliances,Philips Air Fryer,1,199.99,199.99,Asia,Cash
+10313,2024-12-29,Electronics,iPad Pro 11,5,799.99,3999.95,Asia,Cash
+10314,2024-03-21,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Europe,Credit Card
+10315,2024-04-12,Home Appliances,LG Smart Refrigerator,4,1499.99,5999.96,North America,Cash
+10316,2024-10-10,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Europe,Apple Pay
+10317,2024-02-14,Electronics,MacBook Air M2,4,1199.99,4799.96,South America,Apple Pay
+10318,2024-07-29,Books,Python Crash Course,1,34.99,34.99,Europe,Cash
+10319,2024-11-24,Electronics,Sony WH-1000XM5 Headphones,4,399.99,1599.96,Australia,Cash
+10320,2024-03-06,Home Appliances,LG Smart Refrigerator,4,1499.99,5999.96,Australia,Credit Card
+10321,2024-03-04,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,Europe,Cash
+10322,2024-12-29,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Asia,Credit Card
+10323,2024-05-08,Home Appliances,Bosch Washing Machine,3,899.99,2699.97,Europe,Cash
+10324,2024-11-10,Electronics,iPad Pro 11,2,799.99,1599.98,Australia,Apple Pay
+10325,2024-03-19,Home Appliances,Bosch Washing Machine,5,899.99,4499.95,Asia,Apple Pay
+10326,2024-01-22,Electronics,iPhone 14 Pro,1,999.99,999.99,Australia,Cash
+10327,2024-11-29,Home Appliances,Bosch Washing Machine,4,899.99,3599.96,Australia,Credit Card
+10328,2024-09-11,Clothing,Adidas Hoodie,4,69.99,279.96,Europe,PayPal
+10329,2024-06-01,Books,Atomic Habits,1,24.99,24.99,Europe,PayPal
+10330,2024-07-31,Books,The Pragmatic Programmer,2,44.99,89.98,Asia,Apple Pay
+10331,2024-03-14,Clothing,Adidas Hoodie,3,69.99,209.97,South America,Debit Card
+10332,2024-07-08,Electronics,MacBook Air M2,2,1199.99,2399.98,South America,Credit Card
+10333,2024-05-16,Books,Clean Code,2,39.99,79.98,North America,Credit Card
+10334,2024-05-28,Books,Python Crash Course,4,34.99,139.96,Europe,Debit Card
+10335,2024-06-16,Clothing,Nike Air Force 1 Sneakers,2,109.99,219.98,South America,Apple Pay
+10336,2024-08-27,Books,Deep Work,4,29.99,119.96,North America,Credit Card
+10337,2024-07-20,Books,Clean Code,2,39.99,79.98,Australia,Cash
+10338,2024-01-25,Electronics,MacBook Air M2,4,1199.99,4799.96,Australia,PayPal
+10339,2024-05-26,Electronics,iPhone 14 Pro,4,999.99,3999.96,Europe,Cash
+10340,2024-07-06,Books,Deep Work,1,29.99,29.99,South America,Credit Card
+10341,2024-10-18,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Asia,Credit Card
+10342,2024-07-16,Books,Python Crash Course,3,34.99,104.97,Australia,Apple Pay
+10343,2024-03-01,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Asia,Cash
+10344,2024-10-12,Clothing,Nike Air Force 1 Sneakers,2,109.99,219.98,Australia,Apple Pay
+10345,2024-07-24,Electronics,iPhone 14 Pro,1,999.99,999.99,Europe,Cash
+10346,2024-08-30,Books,Clean Code,5,39.99,199.95,Australia,Debit Card
+10347,2024-06-16,Clothing,Nike Air Force 1 Sneakers,4,109.99,439.96,Australia,Cash
+10348,2024-10-30,Clothing,North Face Jacket,5,249.99,1249.95,Australia,PayPal
+10349,2024-12-28,Clothing,Uniqlo Cotton T-Shirt,1,19.99,19.99,Asia,Cash
+10350,2024-12-10,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,Asia,Credit Card
+10351,2024-11-01,Books,Deep Work,5,29.99,149.95,Australia,Debit Card
+10352,2024-01-27,Books,Clean Code,5,39.99,199.95,Australia,PayPal
+10353,2024-03-16,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,North America,Debit Card
+10354,2024-01-10,Books,Deep Work,4,29.99,119.96,Europe,PayPal
+10355,2024-12-19,Home Appliances,Philips Air Fryer,5,199.99,999.95,Australia,PayPal
+10356,2024-02-01,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,Australia,Cash
+10357,2024-12-05,Books,Python Crash Course,4,34.99,139.96,Asia,Debit Card
+10358,2024-08-23,Clothing,North Face Jacket,3,249.99,749.97,Asia,Apple Pay
+10359,2024-09-04,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,Australia,Cash
+10360,2024-04-25,Clothing,Adidas Hoodie,2,69.99,139.98,South America,Cash
+10361,2024-09-02,Clothing,North Face Jacket,3,249.99,749.97,Asia,Credit Card
+10362,2024-10-20,Books,The Pragmatic Programmer,3,44.99,134.97,Europe,Cash
+10363,2024-01-22,Clothing,Levi's 501 Jeans,3,79.99,239.97,South America,Cash
+10364,2024-09-02,Home Appliances,LG Smart Refrigerator,5,1499.99,7499.95,Asia,Apple Pay
+10365,2024-12-22,Clothing,Nike Air Force 1 Sneakers,1,109.99,109.99,Australia,Apple Pay
+10366,2024-05-02,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,Europe,Debit Card
+10367,2024-01-27,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,South America,Credit Card
+10368,2024-12-14,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,Europe,PayPal
+10369,2024-11-30,Books,The Pragmatic Programmer,2,44.99,89.98,Asia,Cash
+10370,2024-05-26,Electronics,iPhone 14 Pro,5,999.99,4999.95,Europe,Apple Pay
+10371,2024-01-20,Home Appliances,Philips Air Fryer,2,199.99,399.98,North America,PayPal
+10372,2024-09-10,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,North America,Cash
+10373,2024-10-17,Electronics,MacBook Air M2,3,1199.99,3599.97,South America,Apple Pay
+10374,2024-09-25,Books,Clean Code,5,39.99,199.95,South America,Cash
+10375,2024-04-08,Electronics,MacBook Air M2,2,1199.99,2399.98,South America,Cash
+10376,2024-04-05,Electronics,MacBook Air M2,3,1199.99,3599.97,Australia,Debit Card
+10377,2024-03-30,Books,The Pragmatic Programmer,5,44.99,224.95,Asia,Credit Card
+10378,2024-07-24,Electronics,Samsung Galaxy S23,2,899.99,1799.98,South America,Cash
+10379,2024-05-07,Electronics,MacBook Air M2,4,1199.99,4799.96,Europe,PayPal
+10380,2024-05-16,Clothing,Adidas Hoodie,5,69.99,349.95,Australia,Credit Card
+10381,2024-05-13,Clothing,Nike Air Force 1 Sneakers,1,109.99,109.99,North America,PayPal
+10382,2024-06-06,Home Appliances,Philips Air Fryer,5,199.99,999.95,Asia,Credit Card
+10383,2024-11-23,Clothing,Adidas Hoodie,5,69.99,349.95,Europe,Debit Card
+10384,2024-03-09,Books,Clean Code,4,39.99,159.96,Australia,Cash
+10385,2024-07-31,Books,Python Crash Course,2,34.99,69.98,Europe,Apple Pay
+10386,2024-02-11,Books,Python Crash Course,3,34.99,104.97,North America,Apple Pay
+10387,2024-02-27,Electronics,iPad Pro 11,5,799.99,3999.95,Europe,Apple Pay
+10388,2024-10-01,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,Australia,PayPal
+10389,2024-02-29,Home Appliances,Bosch Washing Machine,4,899.99,3599.96,North America,Apple Pay
+10390,2024-08-16,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,Australia,PayPal
+10391,2024-08-21,Electronics,iPad Pro 11,4,799.99,3199.96,Asia,Credit Card
+10392,2024-07-21,Clothing,Levi's 501 Jeans,2,79.99,159.98,Australia,Credit Card
+10393,2024-01-24,Books,Deep Work,1,29.99,29.99,Australia,Credit Card
+10394,2024-02-05,Books,Atomic Habits,3,24.99,74.97,South America,Debit Card
+10395,2024-03-10,Books,Deep Work,4,29.99,119.96,South America,PayPal
+10396,2024-07-11,Electronics,iPad Pro 11,2,799.99,1599.98,Asia,Credit Card
+10397,2024-04-01,Books,Python Crash Course,2,34.99,69.98,Europe,Credit Card
+10398,2024-01-12,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,South America,Apple Pay
+10399,2024-07-13,Home Appliances,LG Smart Refrigerator,4,1499.99,5999.96,Asia,Debit Card
+10400,2024-05-21,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,South America,Apple Pay
+10401,2024-01-09,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,North America,Apple Pay
+10402,2024-01-18,Books,Python Crash Course,1,34.99,34.99,Europe,Credit Card
+10403,2024-07-24,Books,Clean Code,5,39.99,199.95,Europe,Credit Card
+10404,2024-03-12,Clothing,Nike Air Force 1 Sneakers,5,109.99,549.95,Asia,Apple Pay
+10405,2024-11-02,Clothing,Nike Air Force 1 Sneakers,3,109.99,329.97,Europe,Apple Pay
+10406,2024-04-23,Books,Deep Work,3,29.99,89.97,North America,Apple Pay
+10407,2024-10-29,Home Appliances,Philips Air Fryer,5,199.99,999.95,South America,Credit Card
+10408,2024-06-25,Books,Python Crash Course,3,34.99,104.97,South America,PayPal
+10409,2024-03-17,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Australia,PayPal
+10410,2024-05-03,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,South America,Credit Card
+10411,2024-10-14,Books,The Pragmatic Programmer,5,44.99,224.95,Australia,Debit Card
+10412,2024-07-17,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,Asia,Credit Card
+10413,2024-08-18,Clothing,Levi's 501 Jeans,5,79.99,399.95,Europe,Credit Card
+10414,2024-05-17,Books,Python Crash Course,5,34.99,174.95,North America,Credit Card
+10415,2024-04-06,Home Appliances,Philips Air Fryer,2,199.99,399.98,Asia,Cash
+10416,2024-01-08,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,South America,Debit Card
+10417,2024-12-22,Home Appliances,Philips Air Fryer,2,199.99,399.98,Australia,Cash
+10418,2024-05-24,Books,The Pragmatic Programmer,5,44.99,224.95,Asia,Cash
+10419,2024-05-13,Clothing,North Face Jacket,4,249.99,999.96,South America,Credit Card
+10420,2024-08-28,Clothing,Nike Air Force 1 Sneakers,3,109.99,329.97,Asia,PayPal
+10421,2024-01-24,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,Asia,Apple Pay
+10422,2024-10-26,Books,Deep Work,2,29.99,59.98,Europe,Cash
+10423,2024-04-27,Books,Python Crash Course,2,34.99,69.98,South America,Apple Pay
+10424,2024-12-01,Clothing,Adidas Hoodie,4,69.99,279.96,South America,PayPal
+10425,2024-03-27,Clothing,Nike Air Force 1 Sneakers,2,109.99,219.98,Australia,PayPal
+10426,2024-04-04,Electronics,iPad Pro 11,1,799.99,799.99,North America,Credit Card
+10427,2024-01-04,Books,Clean Code,2,39.99,79.98,North America,Debit Card
+10428,2024-01-05,Home Appliances,Bosch Washing Machine,4,899.99,3599.96,Asia,Credit Card
+10429,2024-11-12,Books,The Pragmatic Programmer,1,44.99,44.99,North America,Apple Pay
+10430,2024-10-09,Books,Atomic Habits,1,24.99,24.99,Australia,Cash
+10431,2024-10-01,Clothing,Levi's 501 Jeans,5,79.99,399.95,South America,Debit Card
+10432,2024-02-24,Electronics,iPad Pro 11,2,799.99,1599.98,Europe,Debit Card
+10433,2024-11-13,Clothing,Adidas Hoodie,3,69.99,209.97,South America,Credit Card
+10434,2024-07-10,Books,The Pragmatic Programmer,5,44.99,224.95,Europe,Debit Card
+10435,2024-06-02,Electronics,iPhone 14 Pro,1,999.99,999.99,South America,PayPal
+10436,2024-07-12,Books,Atomic Habits,1,24.99,24.99,Europe,Credit Card
+10437,2024-09-12,Books,Deep Work,5,29.99,149.95,North America,Apple Pay
+10438,2024-01-22,Home Appliances,LG Smart Refrigerator,5,1499.99,7499.95,South America,Cash
+10439,2024-01-24,Electronics,MacBook Air M2,5,1199.99,5999.95,Australia,Credit Card
+10440,2024-04-01,Clothing,Levi's 501 Jeans,2,79.99,159.98,Australia,Debit Card
+10441,2024-12-30,Books,Atomic Habits,3,24.99,74.97,Europe,Apple Pay
+10442,2024-05-03,Books,Python Crash Course,3,34.99,104.97,South America,Debit Card
+10443,2024-12-18,Electronics,iPad Pro 11,3,799.99,2399.97,North America,Credit Card
+10444,2024-08-11,Home Appliances,Dyson V11 Vacuum Cleaner,3,599.99,1799.97,Australia,Apple Pay
+10445,2024-10-31,Books,Deep Work,1,29.99,29.99,Asia,PayPal
+10446,2024-09-08,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,South America,PayPal
+10447,2024-04-05,Books,Atomic Habits,5,24.99,124.95,Asia,Debit Card
+10448,2024-02-07,Electronics,MacBook Air M2,2,1199.99,2399.98,South America,Debit Card
+10449,2024-07-18,Clothing,Adidas Hoodie,1,69.99,69.99,North America,Credit Card
+10450,2024-06-06,Books,Deep Work,3,29.99,89.97,North America,Debit Card
+10451,2024-02-14,Home Appliances,Philips Air Fryer,4,199.99,799.96,Australia,Apple Pay
+10452,2024-09-19,Books,Atomic Habits,1,24.99,24.99,North America,Cash
+10453,2024-10-10,Electronics,iPad Pro 11,5,799.99,3999.95,Asia,PayPal
+10454,2024-01-07,Clothing,Uniqlo Cotton T-Shirt,4,19.99,79.96,North America,Apple Pay
+10455,2024-05-04,Home Appliances,Philips Air Fryer,2,199.99,399.98,Europe,Cash
+10456,2024-06-03,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,North America,Debit Card
+10457,2024-08-10,Clothing,Uniqlo Cotton T-Shirt,3,19.99,59.97,South America,Credit Card
+10458,2024-07-03,Clothing,Nike Air Force 1 Sneakers,4,109.99,439.96,Australia,Apple Pay
+10459,2024-04-10,Books,Atomic Habits,2,24.99,49.98,Asia,Credit Card
+10460,2024-07-21,Clothing,North Face Jacket,4,249.99,999.96,Asia,PayPal
+10461,2024-06-20,Books,Python Crash Course,2,34.99,69.98,Asia,Cash
+10462,2024-11-04,Home Appliances,Philips Air Fryer,3,199.99,599.97,Europe,PayPal
+10463,2024-06-12,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Europe,Cash
+10464,2024-07-11,Clothing,Uniqlo Cotton T-Shirt,3,19.99,59.97,North America,Apple Pay
+10465,2024-04-12,Home Appliances,Bosch Washing Machine,1,899.99,899.99,South America,Debit Card
+10466,2024-08-12,Clothing,Levi's 501 Jeans,4,79.99,319.96,South America,Debit Card
+10467,2024-11-20,Clothing,Nike Air Force 1 Sneakers,3,109.99,329.97,Europe,PayPal
+10468,2024-07-12,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,South America,Apple Pay
+10469,2024-07-24,Books,Python Crash Course,1,34.99,34.99,Asia,Apple Pay
+10470,2024-10-31,Electronics,iPhone 14 Pro,2,999.99,1999.98,Asia,Debit Card
+10471,2024-11-27,Electronics,iPad Pro 11,4,799.99,3199.96,Asia,PayPal
+10472,2024-02-24,Electronics,iPhone 14 Pro,3,999.99,2999.97,Europe,Apple Pay
+10473,2024-09-22,Home Appliances,Philips Air Fryer,3,199.99,599.97,South America,PayPal
+10474,2024-12-13,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,South America,Credit Card
+10475,2024-05-31,Books,Atomic Habits,1,24.99,24.99,Europe,Cash
+10476,2024-06-08,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Australia,PayPal
+10477,2024-06-27,Books,Atomic Habits,4,24.99,99.96,South America,Cash
+10478,2024-02-04,Clothing,Levi's 501 Jeans,1,79.99,79.99,North America,Cash
+10479,2024-11-27,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Australia,Debit Card
+10480,2024-10-09,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,South America,PayPal
+10481,2024-04-28,Books,Clean Code,2,39.99,79.98,South America,PayPal
+10482,2024-01-15,Home Appliances,Philips Air Fryer,5,199.99,999.95,South America,PayPal
+10483,2024-01-03,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,North America,Apple Pay
+10484,2024-02-22,Home Appliances,Samsung Microwave Oven,3,249.99,749.97,Europe,PayPal
+10485,2024-02-28,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Asia,Apple Pay
+10486,2024-07-17,Books,Python Crash Course,1,34.99,34.99,Asia,Cash
+10487,2024-08-22,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Australia,Credit Card
+10488,2024-12-10,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Europe,Cash
+10489,2024-02-29,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,Australia,PayPal
+10490,2024-08-02,Home Appliances,Bosch Washing Machine,4,899.99,3599.96,South America,Debit Card
+10491,2024-09-06,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,South America,Cash
+10492,2024-03-12,Home Appliances,Samsung Microwave Oven,4,249.99,999.96,Australia,Credit Card
+10493,2024-07-02,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,Europe,PayPal
+10494,2024-10-14,Books,The Pragmatic Programmer,4,44.99,179.96,South America,PayPal
+10495,2024-09-07,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,North America,Debit Card
+10496,2024-05-29,Electronics,MacBook Air M2,2,1199.99,2399.98,Australia,Cash
+10497,2024-03-27,Books,Python Crash Course,4,34.99,139.96,Australia,Apple Pay
+10498,2024-02-27,Electronics,MacBook Air M2,5,1199.99,5999.95,Asia,Apple Pay
+10499,2024-01-22,Books,Python Crash Course,2,34.99,69.98,South America,Credit Card
+10500,2024-11-30,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,South America,Cash
+10501,2024-06-27,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,Europe,Debit Card
+10502,2024-10-28,Clothing,North Face Jacket,4,249.99,999.96,Europe,Apple Pay
+10503,2024-03-12,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,Australia,Cash
+10504,2024-09-29,Clothing,North Face Jacket,5,249.99,1249.95,Europe,Cash
+10505,2024-12-26,Clothing,Adidas Hoodie,5,69.99,349.95,Asia,Apple Pay
+10506,2024-12-13,Electronics,Samsung Galaxy S23,4,899.99,3599.96,North America,Cash
+10507,2024-12-01,Home Appliances,LG Smart Refrigerator,2,1499.99,2999.98,Europe,Cash
+10508,2024-05-06,Books,The Pragmatic Programmer,2,44.99,89.98,Australia,Cash
+10509,2024-11-17,Books,The Pragmatic Programmer,4,44.99,179.96,North America,Credit Card
+10510,2024-07-25,Clothing,Adidas Hoodie,4,69.99,279.96,South America,Cash
+10511,2024-10-24,Electronics,iPhone 14 Pro,4,999.99,3999.96,Asia,Credit Card
+10512,2024-09-30,Books,Clean Code,4,39.99,159.96,Europe,PayPal
+10513,2024-05-17,Clothing,Adidas Hoodie,3,69.99,209.97,Australia,Apple Pay
+10514,2024-03-07,Books,Deep Work,1,29.99,29.99,North America,Credit Card
+10515,2024-11-16,Books,Atomic Habits,1,24.99,24.99,Europe,PayPal
+10516,2024-08-21,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,Europe,Cash
+10517,2024-03-22,Clothing,Levi's 501 Jeans,3,79.99,239.97,Asia,Credit Card
+10518,2024-07-09,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Asia,Debit Card
+10519,2024-08-07,Electronics,iPhone 14 Pro,1,999.99,999.99,Europe,PayPal
+10520,2024-02-09,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,Australia,PayPal
+10521,2024-01-05,Electronics,MacBook Air M2,1,1199.99,1199.99,South America,Debit Card
+10522,2024-09-01,Electronics,Samsung Galaxy S23,4,899.99,3599.96,North America,Credit Card
+10523,2024-02-22,Clothing,Adidas Hoodie,3,69.99,209.97,Europe,PayPal
+10524,2024-03-09,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,Australia,Credit Card
+10525,2024-11-08,Home Appliances,Philips Air Fryer,3,199.99,599.97,Europe,Debit Card
+10526,2024-07-29,Books,Clean Code,1,39.99,39.99,North America,Debit Card
+10527,2024-03-04,Books,Deep Work,4,29.99,119.96,Asia,Debit Card
+10528,2024-05-06,Clothing,Levi's 501 Jeans,2,79.99,159.98,Australia,Apple Pay
+10529,2024-11-03,Clothing,Levi's 501 Jeans,3,79.99,239.97,Europe,Apple Pay
+10530,2024-11-06,Home Appliances,Philips Air Fryer,3,199.99,599.97,North America,Debit Card
+10531,2024-09-10,Books,Atomic Habits,2,24.99,49.98,South America,Apple Pay
+10532,2024-02-06,Electronics,MacBook Air M2,3,1199.99,3599.97,Europe,PayPal
+10533,2024-10-18,Books,Deep Work,5,29.99,149.95,Europe,PayPal
+10534,2024-02-07,Electronics,iPad Pro 11,1,799.99,799.99,North America,Cash
+10535,2024-04-20,Electronics,iPhone 14 Pro,4,999.99,3999.96,Australia,Cash
+10536,2024-11-17,Books,The Pragmatic Programmer,4,44.99,179.96,North America,Apple Pay
+10537,2024-10-02,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Asia,Credit Card
+10538,2024-09-18,Home Appliances,LG Smart Refrigerator,5,1499.99,7499.95,Asia,PayPal
+10539,2024-10-27,Electronics,MacBook Air M2,4,1199.99,4799.96,Europe,Credit Card
+10540,2024-05-05,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,South America,Apple Pay
+10541,2024-11-07,Electronics,MacBook Air M2,2,1199.99,2399.98,North America,Credit Card
+10542,2024-12-28,Home Appliances,Dyson V11 Vacuum Cleaner,2,599.99,1199.98,South America,Cash
+10543,2024-09-24,Clothing,Nike Air Force 1 Sneakers,3,109.99,329.97,Europe,Cash
+10544,2024-03-01,Electronics,MacBook Air M2,4,1199.99,4799.96,Asia,Apple Pay
+10545,2024-02-02,Clothing,North Face Jacket,1,249.99,249.99,South America,PayPal
+10546,2024-09-18,Clothing,Levi's 501 Jeans,4,79.99,319.96,Australia,Debit Card
+10547,2024-07-07,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Australia,Credit Card
+10548,2024-04-26,Electronics,iPhone 14 Pro,1,999.99,999.99,Europe,Credit Card
+10549,2024-08-29,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Europe,Credit Card
+10550,2024-10-10,Books,Clean Code,3,39.99,119.97,Europe,PayPal
+10551,2024-06-12,Clothing,Levi's 501 Jeans,5,79.99,399.95,Asia,Credit Card
+10552,2024-09-14,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Australia,Credit Card
+10553,2024-07-24,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,Asia,Cash
+10554,2024-02-14,Books,Atomic Habits,3,24.99,74.97,Europe,Cash
+10555,2024-10-15,Clothing,North Face Jacket,2,249.99,499.98,South America,Cash
+10556,2024-10-29,Books,Clean Code,5,39.99,199.95,Europe,Debit Card
+10557,2024-01-04,Books,Atomic Habits,2,24.99,49.98,Australia,Cash
+10558,2024-11-21,Electronics,MacBook Air M2,1,1199.99,1199.99,South America,Cash
+10559,2024-02-23,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,South America,PayPal
+10560,2024-01-31,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,North America,Debit Card
+10561,2024-09-23,Books,Deep Work,4,29.99,119.96,North America,Apple Pay
+10562,2024-02-18,Home Appliances,Philips Air Fryer,1,199.99,199.99,Australia,Apple Pay
+10563,2024-02-01,Books,Clean Code,2,39.99,79.98,Asia,Cash
+10564,2024-06-10,Books,Deep Work,3,29.99,89.97,South America,Cash
+10565,2024-04-29,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Australia,Credit Card
+10566,2024-03-20,Electronics,Samsung Galaxy S23,4,899.99,3599.96,South America,Cash
+10567,2024-07-27,Electronics,iPad Pro 11,3,799.99,2399.97,Europe,PayPal
+10568,2024-06-06,Books,Deep Work,1,29.99,29.99,North America,Debit Card
+10569,2024-12-17,Clothing,North Face Jacket,1,249.99,249.99,Europe,Cash
+10570,2024-03-16,Electronics,Samsung Galaxy S23,3,899.99,2699.97,South America,Apple Pay
+10571,2024-01-26,Clothing,Adidas Hoodie,2,69.99,139.98,North America,PayPal
+10572,2024-08-19,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,North America,Debit Card
+10573,2024-03-03,Electronics,iPhone 14 Pro,2,999.99,1999.98,Europe,Debit Card
+10574,2024-07-24,Clothing,Levi's 501 Jeans,5,79.99,399.95,Australia,Cash
+10575,2024-02-08,Electronics,iPhone 14 Pro,2,999.99,1999.98,South America,Debit Card
+10576,2024-02-17,Clothing,Levi's 501 Jeans,1,79.99,79.99,South America,Credit Card
+10577,2024-03-27,Books,The Pragmatic Programmer,4,44.99,179.96,North America,PayPal
+10578,2024-12-15,Books,Clean Code,3,39.99,119.97,Europe,Debit Card
+10579,2024-05-20,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,North America,Apple Pay
+10580,2024-11-13,Home Appliances,Samsung Microwave Oven,4,249.99,999.96,South America,Apple Pay
+10581,2024-09-02,Electronics,iPhone 14 Pro,3,999.99,2999.97,South America,Debit Card
+10582,2024-08-02,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,Australia,Credit Card
+10583,2024-07-14,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,South America,Cash
+10584,2024-10-16,Clothing,Uniqlo Cotton T-Shirt,3,19.99,59.97,Europe,Credit Card
+10585,2024-06-12,Home Appliances,Dyson V11 Vacuum Cleaner,3,599.99,1799.97,North America,PayPal
+10586,2024-09-28,Clothing,North Face Jacket,2,249.99,499.98,Europe,Credit Card
+10587,2024-05-06,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,North America,Debit Card
+10588,2024-10-21,Books,Deep Work,2,29.99,59.98,Europe,Debit Card
+10589,2024-10-30,Clothing,Adidas Hoodie,5,69.99,349.95,North America,Cash
+10590,2024-10-17,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,South America,Apple Pay
+10591,2024-06-07,Home Appliances,Philips Air Fryer,1,199.99,199.99,North America,Credit Card
+10592,2024-04-29,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,South America,Credit Card
+10593,2024-06-18,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,Europe,Cash
+10594,2024-01-31,Electronics,Samsung Galaxy S23,5,899.99,4499.95,Europe,Credit Card
+10595,2024-09-26,Clothing,Levi's 501 Jeans,3,79.99,239.97,South America,Apple Pay
+10596,2024-02-21,Clothing,Adidas Hoodie,3,69.99,209.97,Europe,Debit Card
+10597,2024-08-11,Books,Deep Work,2,29.99,59.98,Australia,Apple Pay
+10598,2024-07-01,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,South America,Cash
+10599,2024-12-18,Clothing,Nike Air Force 1 Sneakers,2,109.99,219.98,North America,Apple Pay
+10600,2024-07-19,Electronics,Samsung Galaxy S23,5,899.99,4499.95,Asia,Apple Pay
+10601,2024-04-23,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,Asia,Credit Card
+10602,2024-05-01,Clothing,Adidas Hoodie,2,69.99,139.98,North America,Cash
+10603,2024-08-16,Electronics,MacBook Air M2,2,1199.99,2399.98,Europe,Credit Card
+10604,2024-06-28,Clothing,Levi's 501 Jeans,1,79.99,79.99,North America,PayPal
+10605,2024-08-12,Books,Clean Code,4,39.99,159.96,South America,PayPal
+10606,2024-06-28,Books,Atomic Habits,4,24.99,99.96,Australia,Debit Card
+10607,2024-03-24,Books,Atomic Habits,1,24.99,24.99,Asia,Credit Card
+10608,2024-06-12,Clothing,Levi's 501 Jeans,1,79.99,79.99,Asia,Debit Card
+10609,2024-07-11,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,North America,Cash
+10610,2024-10-31,Books,Atomic Habits,4,24.99,99.96,Europe,Apple Pay
+10611,2024-08-10,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,Asia,Debit Card
+10612,2024-04-07,Books,Python Crash Course,5,34.99,174.95,Asia,Cash
+10613,2024-06-01,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,South America,Apple Pay
+10614,2024-10-08,Books,Clean Code,1,39.99,39.99,Asia,Credit Card
+10615,2024-08-06,Electronics,MacBook Air M2,5,1199.99,5999.95,South America,Debit Card
+10616,2024-02-19,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Asia,Credit Card
+10617,2024-08-30,Electronics,MacBook Air M2,4,1199.99,4799.96,South America,PayPal
+10618,2024-12-04,Clothing,Levi's 501 Jeans,5,79.99,399.95,South America,Debit Card
+10619,2024-07-08,Books,Deep Work,2,29.99,59.98,South America,Credit Card
+10620,2024-05-14,Books,The Pragmatic Programmer,3,44.99,134.97,Europe,Cash
+10621,2024-10-15,Electronics,Samsung Galaxy S23,1,899.99,899.99,North America,Cash
+10622,2024-10-04,Books,Python Crash Course,2,34.99,69.98,Australia,Credit Card
+10623,2024-07-17,Books,Python Crash Course,4,34.99,139.96,Australia,Debit Card
+10624,2024-08-31,Clothing,Levi's 501 Jeans,4,79.99,319.96,North America,Apple Pay
+10625,2024-10-19,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Europe,Debit Card
+10626,2024-04-18,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,South America,Credit Card
+10627,2024-12-15,Books,Clean Code,2,39.99,79.98,Australia,Cash
+10628,2024-06-12,Electronics,iPhone 14 Pro,4,999.99,3999.96,Australia,PayPal
+10629,2024-10-09,Clothing,Adidas Hoodie,5,69.99,349.95,South America,Credit Card
+10630,2024-12-24,Books,Atomic Habits,4,24.99,99.96,Europe,Debit Card
+10631,2024-10-17,Electronics,iPhone 14 Pro,5,999.99,4999.95,North America,Cash
+10632,2024-10-01,Clothing,Uniqlo Cotton T-Shirt,3,19.99,59.97,South America,PayPal
+10633,2024-10-19,Books,Atomic Habits,2,24.99,49.98,Asia,PayPal
+10634,2024-03-14,Books,Atomic Habits,4,24.99,99.96,Asia,Debit Card
+10635,2024-01-26,Books,Deep Work,3,29.99,89.97,North America,Cash
+10636,2024-06-04,Clothing,Adidas Hoodie,4,69.99,279.96,North America,Debit Card
+10637,2024-03-09,Clothing,Uniqlo Cotton T-Shirt,3,19.99,59.97,Asia,PayPal
+10638,2024-11-05,Electronics,Samsung Galaxy S23,4,899.99,3599.96,Europe,PayPal
+10639,2024-09-05,Clothing,Levi's 501 Jeans,5,79.99,399.95,Europe,Credit Card
+10640,2024-06-08,Books,Clean Code,5,39.99,199.95,Australia,Credit Card
+10641,2024-03-29,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,Europe,Credit Card
+10642,2024-08-21,Electronics,MacBook Air M2,2,1199.99,2399.98,Asia,Cash
+10643,2024-08-25,Books,Atomic Habits,1,24.99,24.99,Europe,Cash
+10644,2024-09-07,Books,Clean Code,4,39.99,159.96,Australia,Apple Pay
+10645,2024-06-28,Clothing,Nike Air Force 1 Sneakers,3,109.99,329.97,North America,Cash
+10646,2024-01-15,Books,Atomic Habits,2,24.99,49.98,Australia,Debit Card
+10647,2024-04-23,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,South America,Apple Pay
+10648,2024-01-11,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,Europe,Apple Pay
+10649,2024-01-05,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Asia,Cash
+10650,2024-08-04,Books,Deep Work,4,29.99,119.96,Asia,Debit Card
+10651,2024-08-26,Clothing,North Face Jacket,5,249.99,1249.95,South America,Apple Pay
+10652,2024-02-22,Electronics,iPad Pro 11,3,799.99,2399.97,Australia,Apple Pay
+10653,2024-11-07,Clothing,Adidas Hoodie,1,69.99,69.99,South America,Credit Card
+10654,2024-06-21,Clothing,Adidas Hoodie,3,69.99,209.97,Asia,Cash
+10655,2024-04-06,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,North America,Apple Pay
+10656,2024-07-25,Clothing,Nike Air Force 1 Sneakers,1,109.99,109.99,South America,Cash
+10657,2024-05-12,Books,The Pragmatic Programmer,4,44.99,179.96,North America,Apple Pay
+10658,2024-12-28,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,Australia,PayPal
+10659,2024-12-09,Clothing,North Face Jacket,3,249.99,749.97,Europe,Apple Pay
+10660,2024-04-02,Clothing,Levi's 501 Jeans,4,79.99,319.96,Europe,Cash
+10661,2024-10-13,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Europe,Cash
+10662,2024-04-24,Clothing,Uniqlo Cotton T-Shirt,3,19.99,59.97,Asia,Cash
+10663,2024-10-26,Clothing,Uniqlo Cotton T-Shirt,1,19.99,19.99,South America,Credit Card
+10664,2024-11-20,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,Australia,Credit Card
+10665,2024-12-14,Books,Python Crash Course,3,34.99,104.97,South America,Credit Card
+10666,2024-03-18,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,South America,Apple Pay
+10667,2024-08-22,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,North America,PayPal
+10668,2024-06-19,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,North America,PayPal
+10669,2024-05-20,Home Appliances,LG Smart Refrigerator,5,1499.99,7499.95,Europe,PayPal
+10670,2024-02-15,Home Appliances,Bosch Washing Machine,4,899.99,3599.96,South America,PayPal
+10671,2024-08-07,Books,The Pragmatic Programmer,1,44.99,44.99,North America,Apple Pay
+10672,2024-04-12,Clothing,Levi's 501 Jeans,3,79.99,239.97,Australia,Debit Card
+10673,2024-01-10,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Asia,Cash
+10674,2024-03-07,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,Australia,Cash
+10675,2024-03-26,Electronics,iPhone 14 Pro,3,999.99,2999.97,Asia,PayPal
+10676,2024-09-23,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Asia,PayPal
+10677,2024-07-02,Home Appliances,LG Smart Refrigerator,4,1499.99,5999.96,North America,Debit Card
+10678,2024-04-24,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,Australia,Apple Pay
+10679,2024-03-27,Electronics,MacBook Air M2,1,1199.99,1199.99,South America,Cash
+10680,2024-09-30,Electronics,iPad Pro 11,1,799.99,799.99,North America,Credit Card
+10681,2024-01-25,Electronics,Sony WH-1000XM5 Headphones,4,399.99,1599.96,South America,Credit Card
+10682,2024-10-07,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Europe,Credit Card
+10683,2024-06-03,Books,Atomic Habits,5,24.99,124.95,Asia,Apple Pay
+10684,2024-11-06,Home Appliances,Philips Air Fryer,1,199.99,199.99,Australia,Apple Pay
+10685,2024-03-01,Clothing,Levi's 501 Jeans,1,79.99,79.99,South America,Debit Card
+10686,2024-11-07,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Europe,Cash
+10687,2024-12-26,Books,Deep Work,2,29.99,59.98,North America,Apple Pay
+10688,2024-09-11,Home Appliances,Philips Air Fryer,3,199.99,599.97,Europe,Credit Card
+10689,2024-01-07,Electronics,iPhone 14 Pro,5,999.99,4999.95,South America,Debit Card
+10690,2024-02-16,Electronics,iPhone 14 Pro,3,999.99,2999.97,Europe,PayPal
+10691,2024-05-31,Clothing,Uniqlo Cotton T-Shirt,1,19.99,19.99,North America,Debit Card
+10692,2024-01-21,Clothing,Adidas Hoodie,3,69.99,209.97,South America,Credit Card
+10693,2024-02-18,Electronics,iPhone 14 Pro,2,999.99,1999.98,Europe,Cash
+10694,2024-07-02,Books,Python Crash Course,3,34.99,104.97,North America,Cash
+10695,2024-06-24,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,South America,PayPal
+10696,2024-05-19,Books,The Pragmatic Programmer,4,44.99,179.96,Europe,Credit Card
+10697,2024-03-08,Electronics,Samsung Galaxy S23,1,899.99,899.99,South America,Apple Pay
+10698,2024-09-04,Books,Clean Code,5,39.99,199.95,South America,Cash
+10699,2024-11-09,Electronics,Samsung Galaxy S23,4,899.99,3599.96,South America,Credit Card
+10700,2024-07-29,Books,Atomic Habits,1,24.99,24.99,Asia,Cash
+10701,2024-01-07,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Australia,Apple Pay
+10702,2024-02-18,Books,Clean Code,4,39.99,159.96,Asia,PayPal
+10703,2024-03-17,Electronics,iPhone 14 Pro,2,999.99,1999.98,Australia,PayPal
+10704,2024-09-10,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Asia,Debit Card
+10705,2024-06-18,Clothing,Levi's 501 Jeans,5,79.99,399.95,Europe,Apple Pay
+10706,2024-11-25,Books,The Pragmatic Programmer,2,44.99,89.98,North America,PayPal
+10707,2024-08-15,Books,Atomic Habits,4,24.99,99.96,South America,Cash
+10708,2024-03-01,Books,Atomic Habits,1,24.99,24.99,South America,PayPal
+10709,2024-01-19,Electronics,iPhone 14 Pro,5,999.99,4999.95,Australia,Cash
+10710,2024-09-17,Home Appliances,Philips Air Fryer,3,199.99,599.97,Asia,Credit Card
+10711,2024-04-24,Books,Deep Work,5,29.99,149.95,Australia,Apple Pay
+10712,2024-08-30,Clothing,Uniqlo Cotton T-Shirt,1,19.99,19.99,North America,Debit Card
+10713,2024-01-02,Clothing,Adidas Hoodie,3,69.99,209.97,Australia,Apple Pay
+10714,2024-07-10,Electronics,iPhone 14 Pro,2,999.99,1999.98,South America,Debit Card
+10715,2024-07-28,Electronics,MacBook Air M2,5,1199.99,5999.95,Europe,Debit Card
+10716,2024-03-02,Books,Clean Code,4,39.99,159.96,Europe,Cash
+10717,2024-02-25,Books,Atomic Habits,5,24.99,124.95,North America,PayPal
+10718,2024-08-22,Home Appliances,Philips Air Fryer,1,199.99,199.99,Australia,Credit Card
+10719,2024-10-10,Books,Python Crash Course,4,34.99,139.96,Australia,Debit Card
+10720,2024-12-20,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,South America,Apple Pay
+10721,2024-11-06,Clothing,North Face Jacket,4,249.99,999.96,South America,Apple Pay
+10722,2024-12-20,Home Appliances,Samsung Microwave Oven,4,249.99,999.96,Asia,Cash
+10723,2024-08-19,Home Appliances,LG Smart Refrigerator,4,1499.99,5999.96,Australia,Apple Pay
+10724,2024-06-02,Clothing,North Face Jacket,2,249.99,499.98,Europe,Debit Card
+10725,2024-11-15,Clothing,Adidas Hoodie,2,69.99,139.98,Europe,Apple Pay
+10726,2024-10-04,Clothing,Levi's 501 Jeans,3,79.99,239.97,Australia,PayPal
+10727,2024-10-25,Books,Python Crash Course,3,34.99,104.97,South America,Credit Card
+10728,2024-09-24,Electronics,iPhone 14 Pro,4,999.99,3999.96,Europe,Credit Card
+10729,2024-12-09,Electronics,Samsung Galaxy S23,3,899.99,2699.97,Europe,Cash
+10730,2024-12-15,Clothing,Nike Air Force 1 Sneakers,1,109.99,109.99,Asia,Debit Card
+10731,2024-10-04,Electronics,MacBook Air M2,4,1199.99,4799.96,North America,Apple Pay
+10732,2024-12-11,Home Appliances,Bosch Washing Machine,4,899.99,3599.96,Europe,Apple Pay
+10733,2024-12-22,Clothing,Levi's 501 Jeans,4,79.99,319.96,South America,PayPal
+10734,2024-12-16,Clothing,North Face Jacket,1,249.99,249.99,North America,Cash
+10735,2024-04-13,Books,Clean Code,3,39.99,119.97,Australia,Apple Pay
+10736,2024-11-04,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,South America,Debit Card
+10737,2024-12-15,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Australia,Credit Card
+10738,2024-07-12,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,Australia,Cash
+10739,2024-03-07,Home Appliances,Bosch Washing Machine,3,899.99,2699.97,North America,Cash
+10740,2024-08-26,Home Appliances,Dyson V11 Vacuum Cleaner,2,599.99,1199.98,Asia,Apple Pay
+10741,2024-01-27,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Australia,Cash
+10742,2024-02-07,Clothing,North Face Jacket,2,249.99,499.98,Europe,Apple Pay
+10743,2024-02-04,Home Appliances,Philips Air Fryer,5,199.99,999.95,Australia,PayPal
+10744,2024-02-17,Clothing,Nike Air Force 1 Sneakers,2,109.99,219.98,Asia,Cash
+10745,2024-07-03,Clothing,Nike Air Force 1 Sneakers,5,109.99,549.95,Australia,PayPal
+10746,2024-10-14,Electronics,iPhone 14 Pro,3,999.99,2999.97,South America,Debit Card
+10747,2024-11-24,Home Appliances,Dyson V11 Vacuum Cleaner,3,599.99,1799.97,South America,Credit Card
+10748,2024-07-16,Clothing,North Face Jacket,3,249.99,749.97,North America,Apple Pay
+10749,2024-07-10,Books,The Pragmatic Programmer,1,44.99,44.99,Asia,Debit Card
+10750,2024-06-13,Electronics,iPhone 14 Pro,2,999.99,1999.98,Australia,Apple Pay
+10751,2024-01-04,Electronics,Samsung Galaxy S23,2,899.99,1799.98,South America,Credit Card
+10752,2024-04-15,Books,Atomic Habits,2,24.99,49.98,North America,PayPal
+10753,2024-06-18,Electronics,iPhone 14 Pro,1,999.99,999.99,North America,Debit Card
+10754,2024-05-08,Electronics,iPad Pro 11,2,799.99,1599.98,Asia,PayPal
+10755,2024-07-17,Books,The Pragmatic Programmer,4,44.99,179.96,Asia,Credit Card
+10756,2024-07-18,Electronics,iPad Pro 11,1,799.99,799.99,Australia,Credit Card
+10757,2024-10-26,Electronics,iPhone 14 Pro,3,999.99,2999.97,Australia,Credit Card
+10758,2024-05-28,Clothing,North Face Jacket,1,249.99,249.99,Asia,PayPal
+10759,2024-07-14,Books,Atomic Habits,4,24.99,99.96,Europe,Apple Pay
+10760,2024-04-22,Home Appliances,Philips Air Fryer,5,199.99,999.95,Asia,Debit Card
+10761,2024-06-01,Clothing,Levi's 501 Jeans,5,79.99,399.95,Australia,Debit Card
+10762,2024-03-04,Electronics,iPhone 14 Pro,5,999.99,4999.95,Australia,PayPal
+10763,2024-10-02,Electronics,MacBook Air M2,2,1199.99,2399.98,Asia,Debit Card
+10764,2024-07-30,Home Appliances,LG Smart Refrigerator,2,1499.99,2999.98,Europe,Apple Pay
+10765,2024-05-09,Home Appliances,Dyson V11 Vacuum Cleaner,2,599.99,1199.98,Australia,Credit Card
+10766,2024-10-08,Books,Python Crash Course,1,34.99,34.99,Asia,Credit Card
+10767,2024-05-08,Electronics,Samsung Galaxy S23,5,899.99,4499.95,South America,Cash
+10768,2024-07-01,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,Asia,Apple Pay
+10769,2024-02-05,Home Appliances,Samsung Microwave Oven,4,249.99,999.96,South America,Cash
+10770,2024-11-11,Clothing,North Face Jacket,2,249.99,499.98,Australia,Apple Pay
+10771,2024-07-05,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,North America,Cash
+10772,2024-05-06,Home Appliances,Philips Air Fryer,3,199.99,599.97,Asia,Debit Card
+10773,2024-12-13,Clothing,Uniqlo Cotton T-Shirt,4,19.99,79.96,South America,Cash
+10774,2024-06-05,Books,Python Crash Course,1,34.99,34.99,Europe,Apple Pay
+10775,2024-02-11,Clothing,Nike Air Force 1 Sneakers,5,109.99,549.95,Europe,Cash
+10776,2024-11-16,Electronics,iPhone 14 Pro,1,999.99,999.99,Australia,Credit Card
+10777,2024-10-24,Books,Python Crash Course,2,34.99,69.98,North America,Apple Pay
+10778,2024-05-13,Books,Clean Code,3,39.99,119.97,South America,Debit Card
+10779,2024-10-28,Clothing,Nike Air Force 1 Sneakers,4,109.99,439.96,Australia,Apple Pay
+10780,2024-02-16,Books,Deep Work,5,29.99,149.95,North America,Debit Card
+10781,2024-11-10,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,South America,Debit Card
+10782,2024-04-01,Home Appliances,Philips Air Fryer,3,199.99,599.97,North America,Debit Card
+10783,2024-09-06,Home Appliances,Dyson V11 Vacuum Cleaner,3,599.99,1799.97,Asia,Debit Card
+10784,2024-01-22,Home Appliances,Bosch Washing Machine,3,899.99,2699.97,South America,PayPal
+10785,2024-08-20,Electronics,iPhone 14 Pro,3,999.99,2999.97,North America,Apple Pay
+10786,2024-11-20,Clothing,Adidas Hoodie,5,69.99,349.95,Australia,Apple Pay
+10787,2024-03-30,Books,The Pragmatic Programmer,3,44.99,134.97,Australia,Credit Card
+10788,2024-09-21,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Australia,PayPal
+10789,2024-06-29,Clothing,Uniqlo Cotton T-Shirt,4,19.99,79.96,Australia,Credit Card
+10790,2024-09-13,Home Appliances,Philips Air Fryer,2,199.99,399.98,Europe,Credit Card
+10791,2024-09-20,Clothing,Nike Air Force 1 Sneakers,2,109.99,219.98,Europe,Debit Card
+10792,2024-07-04,Electronics,Samsung Galaxy S23,4,899.99,3599.96,Asia,Credit Card
+10793,2024-09-03,Books,The Pragmatic Programmer,2,44.99,89.98,Australia,Debit Card
+10794,2024-11-27,Books,Atomic Habits,2,24.99,49.98,North America,Debit Card
+10795,2024-10-20,Home Appliances,LG Smart Refrigerator,5,1499.99,7499.95,North America,Apple Pay
+10796,2024-03-16,Electronics,Samsung Galaxy S23,3,899.99,2699.97,Europe,Apple Pay
+10797,2024-07-26,Electronics,MacBook Air M2,1,1199.99,1199.99,Europe,PayPal
+10798,2024-11-06,Books,The Pragmatic Programmer,2,44.99,89.98,Europe,PayPal
+10799,2024-11-03,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,Australia,Apple Pay
+10800,2024-05-15,Home Appliances,Samsung Microwave Oven,4,249.99,999.96,Australia,Apple Pay
+10801,2024-02-05,Home Appliances,Philips Air Fryer,4,199.99,799.96,Europe,Credit Card
+10802,2024-01-09,Home Appliances,Bosch Washing Machine,5,899.99,4499.95,South America,Debit Card
+10803,2024-11-06,Electronics,Samsung Galaxy S23,4,899.99,3599.96,Australia,Apple Pay
+10804,2024-01-20,Electronics,iPhone 14 Pro,4,999.99,3999.96,Europe,Apple Pay
+10805,2024-10-03,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,South America,Cash
+10806,2024-01-23,Books,Clean Code,4,39.99,159.96,South America,Cash
+10807,2024-10-28,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,Asia,PayPal
+10808,2024-04-29,Electronics,MacBook Air M2,5,1199.99,5999.95,Australia,PayPal
+10809,2024-05-11,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,Australia,Apple Pay
+10810,2024-03-01,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,Asia,PayPal
+10811,2024-07-04,Electronics,Samsung Galaxy S23,4,899.99,3599.96,Australia,Cash
+10812,2024-05-13,Books,Python Crash Course,3,34.99,104.97,Australia,Cash
+10813,2024-12-14,Books,Clean Code,4,39.99,159.96,Australia,Apple Pay
+10814,2024-09-04,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Australia,PayPal
+10815,2024-05-09,Clothing,North Face Jacket,3,249.99,749.97,South America,Debit Card
+10816,2024-12-03,Electronics,Samsung Galaxy S23,4,899.99,3599.96,Europe,Credit Card
+10817,2024-04-19,Books,Deep Work,5,29.99,149.95,Australia,Credit Card
+10818,2024-03-23,Books,Atomic Habits,1,24.99,24.99,Europe,PayPal
+10819,2024-11-03,Books,Atomic Habits,1,24.99,24.99,Asia,Debit Card
+10820,2024-07-08,Electronics,iPad Pro 11,1,799.99,799.99,South America,PayPal
+10821,2024-11-10,Clothing,North Face Jacket,1,249.99,249.99,Europe,PayPal
+10822,2024-08-12,Electronics,Samsung Galaxy S23,5,899.99,4499.95,Asia,Debit Card
+10823,2024-01-18,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,North America,Cash
+10824,2024-05-02,Electronics,Samsung Galaxy S23,1,899.99,899.99,Asia,PayPal
+10825,2024-06-29,Books,The Pragmatic Programmer,5,44.99,224.95,Europe,Apple Pay
+10826,2024-01-08,Electronics,iPhone 14 Pro,5,999.99,4999.95,Asia,Apple Pay
+10827,2024-10-25,Clothing,Adidas Hoodie,3,69.99,209.97,Europe,Apple Pay
+10828,2024-04-09,Books,The Pragmatic Programmer,5,44.99,224.95,North America,Cash
+10829,2024-03-30,Books,Python Crash Course,1,34.99,34.99,Australia,Credit Card
+10830,2024-09-14,Clothing,Adidas Hoodie,1,69.99,69.99,Australia,Cash
+10831,2024-10-02,Clothing,Uniqlo Cotton T-Shirt,4,19.99,79.96,Australia,PayPal
+10832,2024-05-04,Clothing,Uniqlo Cotton T-Shirt,4,19.99,79.96,Australia,Credit Card
+10833,2024-09-03,Electronics,MacBook Air M2,1,1199.99,1199.99,South America,Debit Card
+10834,2024-12-12,Home Appliances,Samsung Microwave Oven,4,249.99,999.96,Asia,Apple Pay
+10835,2024-10-01,Electronics,MacBook Air M2,2,1199.99,2399.98,Asia,Credit Card
+10836,2024-07-23,Clothing,Levi's 501 Jeans,5,79.99,399.95,Europe,PayPal
+10837,2024-06-09,Clothing,Nike Air Force 1 Sneakers,5,109.99,549.95,Asia,Debit Card
+10838,2024-12-15,Home Appliances,Philips Air Fryer,2,199.99,399.98,Europe,Debit Card
+10839,2024-05-15,Home Appliances,LG Smart Refrigerator,2,1499.99,2999.98,Europe,Apple Pay
+10840,2024-07-01,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,North America,PayPal
+10841,2024-11-10,Electronics,iPad Pro 11,1,799.99,799.99,South America,Cash
+10842,2024-11-13,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Asia,PayPal
+10843,2024-04-03,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Australia,Debit Card
+10844,2024-01-28,Books,The Pragmatic Programmer,5,44.99,224.95,North America,Apple Pay
+10845,2024-06-26,Books,Clean Code,4,39.99,159.96,North America,Apple Pay
+10846,2024-08-23,Clothing,Levi's 501 Jeans,1,79.99,79.99,Europe,PayPal
+10847,2024-10-24,Electronics,MacBook Air M2,3,1199.99,3599.97,Australia,Cash
+10848,2024-04-05,Clothing,Nike Air Force 1 Sneakers,3,109.99,329.97,South America,Apple Pay
+10849,2024-06-24,Clothing,Nike Air Force 1 Sneakers,4,109.99,439.96,South America,Debit Card
+10850,2024-08-02,Clothing,Adidas Hoodie,4,69.99,279.96,Asia,PayPal
+10851,2024-04-02,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,North America,Cash
+10852,2024-04-30,Books,The Pragmatic Programmer,2,44.99,89.98,Europe,Debit Card
+10853,2024-08-30,Electronics,Samsung Galaxy S23,4,899.99,3599.96,South America,Debit Card
+10854,2024-11-18,Clothing,Uniqlo Cotton T-Shirt,3,19.99,59.97,Asia,Apple Pay
+10855,2024-10-17,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,Europe,Credit Card
+10856,2024-04-20,Clothing,Uniqlo Cotton T-Shirt,1,19.99,19.99,South America,Cash
+10857,2024-05-13,Clothing,Adidas Hoodie,5,69.99,349.95,Australia,Cash
+10858,2024-06-25,Electronics,Sony WH-1000XM5 Headphones,1,399.99,399.99,Asia,Apple Pay
+10859,2024-04-11,Home Appliances,Samsung Microwave Oven,3,249.99,749.97,Asia,Apple Pay
+10860,2024-09-06,Books,Atomic Habits,4,24.99,99.96,Australia,Cash
+10861,2024-08-25,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,South America,Apple Pay
+10862,2024-10-19,Books,Atomic Habits,1,24.99,24.99,Europe,Cash
+10863,2024-04-26,Clothing,Adidas Hoodie,3,69.99,209.97,Asia,Apple Pay
+10864,2024-11-26,Books,Deep Work,4,29.99,119.96,Asia,Apple Pay
+10865,2024-09-23,Books,The Pragmatic Programmer,2,44.99,89.98,Europe,Credit Card
+10866,2024-03-05,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Europe,Debit Card
+10867,2024-07-22,Electronics,iPhone 14 Pro,1,999.99,999.99,South America,Apple Pay
+10868,2024-01-28,Electronics,Sony WH-1000XM5 Headphones,5,399.99,1999.95,North America,Credit Card
+10869,2024-05-14,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Asia,Debit Card
+10870,2024-05-06,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Europe,Apple Pay
+10871,2024-03-28,Electronics,iPhone 14 Pro,3,999.99,2999.97,Asia,PayPal
+10872,2024-08-27,Clothing,North Face Jacket,4,249.99,999.96,Europe,Apple Pay
+10873,2024-03-31,Books,Python Crash Course,4,34.99,139.96,Australia,Apple Pay
+10874,2024-06-07,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Europe,Credit Card
+10875,2024-08-14,Clothing,Adidas Hoodie,4,69.99,279.96,Asia,Debit Card
+10876,2024-06-04,Electronics,iPhone 14 Pro,5,999.99,4999.95,Europe,Cash
+10877,2024-05-26,Books,Python Crash Course,1,34.99,34.99,South America,PayPal
+10878,2024-06-02,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,Australia,Debit Card
+10879,2024-01-04,Clothing,Nike Air Force 1 Sneakers,4,109.99,439.96,Australia,PayPal
+10880,2024-07-21,Home Appliances,LG Smart Refrigerator,4,1499.99,5999.96,South America,Debit Card
+10881,2024-05-14,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,Australia,Apple Pay
+10882,2024-12-21,Clothing,Adidas Hoodie,5,69.99,349.95,Asia,PayPal
+10883,2024-04-06,Electronics,Samsung Galaxy S23,2,899.99,1799.98,Asia,Credit Card
+10884,2024-11-22,Books,Python Crash Course,4,34.99,139.96,Asia,Apple Pay
+10885,2024-09-08,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Europe,Credit Card
+10886,2024-09-30,Electronics,Samsung Galaxy S23,1,899.99,899.99,Asia,Cash
+10887,2024-03-05,Books,Atomic Habits,2,24.99,49.98,North America,Debit Card
+10888,2024-01-08,Books,Clean Code,3,39.99,119.97,South America,Cash
+10889,2024-09-12,Clothing,Uniqlo Cotton T-Shirt,1,19.99,19.99,Asia,Credit Card
+10890,2024-03-15,Electronics,MacBook Air M2,4,1199.99,4799.96,North America,Apple Pay
+10891,2024-08-28,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,South America,Credit Card
+10892,2024-03-03,Home Appliances,Philips Air Fryer,4,199.99,799.96,Europe,Credit Card
+10893,2024-04-11,Books,Atomic Habits,5,24.99,124.95,Europe,PayPal
+10894,2024-07-18,Clothing,Adidas Hoodie,2,69.99,139.98,North America,Apple Pay
+10895,2024-09-23,Electronics,MacBook Air M2,4,1199.99,4799.96,Asia,Debit Card
+10896,2024-07-03,Electronics,Samsung Galaxy S23,1,899.99,899.99,Europe,PayPal
+10897,2024-06-15,Electronics,Samsung Galaxy S23,3,899.99,2699.97,Australia,Credit Card
+10898,2024-07-21,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,Australia,PayPal
+10899,2024-12-18,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Europe,Debit Card
+10900,2024-09-12,Electronics,iPad Pro 11,3,799.99,2399.97,North America,Credit Card
+10901,2024-07-01,Home Appliances,Bosch Washing Machine,1,899.99,899.99,Europe,PayPal
+10902,2024-04-29,Clothing,North Face Jacket,3,249.99,749.97,South America,Debit Card
+10903,2024-01-11,Books,Deep Work,2,29.99,59.98,Asia,Credit Card
+10904,2024-09-05,Books,Python Crash Course,3,34.99,104.97,Australia,PayPal
+10905,2024-04-07,Home Appliances,Bosch Washing Machine,3,899.99,2699.97,Asia,PayPal
+10906,2024-05-20,Home Appliances,Dyson V11 Vacuum Cleaner,5,599.99,2999.95,Europe,PayPal
+10907,2024-05-31,Clothing,North Face Jacket,3,249.99,749.97,South America,Credit Card
+10908,2024-11-22,Books,Clean Code,1,39.99,39.99,Australia,Cash
+10909,2024-11-13,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Australia,PayPal
+10910,2024-04-07,Books,Python Crash Course,2,34.99,69.98,Australia,Cash
+10911,2024-06-14,Books,Deep Work,1,29.99,29.99,North America,Apple Pay
+10912,2024-12-03,Electronics,iPhone 14 Pro,2,999.99,1999.98,Europe,Credit Card
+10913,2024-04-13,Electronics,Sony WH-1000XM5 Headphones,2,399.99,799.98,North America,Credit Card
+10914,2024-10-19,Books,The Pragmatic Programmer,5,44.99,224.95,Australia,Apple Pay
+10915,2024-05-11,Electronics,MacBook Air M2,2,1199.99,2399.98,Australia,Credit Card
+10916,2024-01-07,Home Appliances,Philips Air Fryer,1,199.99,199.99,South America,Credit Card
+10917,2024-07-03,Books,Deep Work,1,29.99,29.99,Australia,Cash
+10918,2024-09-27,Electronics,iPhone 14 Pro,3,999.99,2999.97,North America,Debit Card
+10919,2024-09-22,Electronics,iPhone 14 Pro,2,999.99,1999.98,Australia,PayPal
+10920,2024-04-07,Home Appliances,Bosch Washing Machine,2,899.99,1799.98,Australia,Debit Card
+10921,2024-10-12,Books,Atomic Habits,5,24.99,124.95,Asia,PayPal
+10922,2024-12-25,Books,Atomic Habits,2,24.99,49.98,Europe,Apple Pay
+10923,2024-07-24,Clothing,Nike Air Force 1 Sneakers,5,109.99,549.95,Australia,PayPal
+10924,2024-06-29,Clothing,North Face Jacket,3,249.99,749.97,Asia,PayPal
+10925,2024-11-20,Books,Deep Work,5,29.99,149.95,Europe,Apple Pay
+10926,2024-10-06,Home Appliances,Philips Air Fryer,5,199.99,999.95,Asia,Cash
+10927,2024-08-19,Books,The Pragmatic Programmer,1,44.99,44.99,North America,Cash
+10928,2024-11-01,Electronics,iPad Pro 11,2,799.99,1599.98,Asia,Credit Card
+10929,2024-06-02,Home Appliances,LG Smart Refrigerator,3,1499.99,4499.97,North America,Cash
+10930,2024-10-10,Home Appliances,Dyson V11 Vacuum Cleaner,1,599.99,599.99,South America,Cash
+10931,2024-03-20,Home Appliances,Samsung Microwave Oven,3,249.99,749.97,Australia,Debit Card
+10932,2024-04-29,Clothing,Adidas Hoodie,1,69.99,69.99,Australia,PayPal
+10933,2024-10-18,Home Appliances,Dyson V11 Vacuum Cleaner,3,599.99,1799.97,South America,Debit Card
+10934,2024-09-06,Electronics,iPad Pro 11,3,799.99,2399.97,North America,Apple Pay
+10935,2024-07-14,Electronics,iPhone 14 Pro,3,999.99,2999.97,Asia,PayPal
+10936,2024-08-01,Electronics,Samsung Galaxy S23,5,899.99,4499.95,North America,PayPal
+10937,2024-01-28,Clothing,North Face Jacket,1,249.99,249.99,Asia,Apple Pay
+10938,2024-10-16,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,Europe,Debit Card
+10939,2024-01-26,Books,The Pragmatic Programmer,5,44.99,224.95,Australia,Apple Pay
+10940,2024-02-16,Home Appliances,Philips Air Fryer,3,199.99,599.97,South America,Debit Card
+10941,2024-03-08,Clothing,Levi's 501 Jeans,4,79.99,319.96,Australia,Credit Card
+10942,2024-10-07,Books,Deep Work,1,29.99,29.99,South America,Apple Pay
+10943,2024-08-10,Home Appliances,LG Smart Refrigerator,4,1499.99,5999.96,Australia,Debit Card
+10944,2024-09-06,Books,Python Crash Course,2,34.99,69.98,Australia,Apple Pay
+10945,2024-09-25,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,Asia,PayPal
+10946,2024-06-14,Electronics,iPhone 14 Pro,4,999.99,3999.96,South America,Cash
+10947,2024-06-27,Home Appliances,Samsung Microwave Oven,3,249.99,749.97,Australia,Credit Card
+10948,2024-06-05,Home Appliances,Samsung Microwave Oven,5,249.99,1249.95,South America,Apple Pay
+10949,2024-03-15,Books,Atomic Habits,2,24.99,49.98,Europe,Cash
+10950,2024-03-20,Electronics,iPhone 14 Pro,1,999.99,999.99,Europe,Apple Pay
+10951,2024-03-16,Clothing,Levi's 501 Jeans,3,79.99,239.97,North America,Cash
+10952,2024-08-18,Books,Atomic Habits,3,24.99,74.97,Europe,Apple Pay
+10953,2024-04-18,Home Appliances,Bosch Washing Machine,5,899.99,4499.95,Asia,Apple Pay
+10954,2024-09-04,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Australia,Apple Pay
+10955,2024-01-23,Clothing,Nike Air Force 1 Sneakers,1,109.99,109.99,Asia,Debit Card
+10956,2024-12-22,Clothing,Levi's 501 Jeans,4,79.99,319.96,North America,Credit Card
+10957,2024-07-17,Clothing,Adidas Hoodie,1,69.99,69.99,North America,Cash
+10958,2024-11-28,Books,Clean Code,4,39.99,159.96,Australia,Credit Card
+10959,2024-06-10,Books,Python Crash Course,5,34.99,174.95,North America,Debit Card
+10960,2024-04-11,Books,Python Crash Course,1,34.99,34.99,North America,Debit Card
+10961,2024-09-28,Clothing,Adidas Hoodie,4,69.99,279.96,South America,Debit Card
+10962,2024-01-10,Clothing,Adidas Hoodie,3,69.99,209.97,Asia,Debit Card
+10963,2024-09-13,Clothing,Levi's 501 Jeans,3,79.99,239.97,South America,Credit Card
+10964,2024-10-11,Clothing,Nike Air Force 1 Sneakers,2,109.99,219.98,Asia,PayPal
+10965,2024-12-02,Home Appliances,Dyson V11 Vacuum Cleaner,4,599.99,2399.96,Australia,Apple Pay
+10966,2024-11-16,Home Appliances,Philips Air Fryer,2,199.99,399.98,Australia,Debit Card
+10967,2024-08-06,Clothing,North Face Jacket,3,249.99,749.97,South America,Apple Pay
+10968,2024-03-08,Home Appliances,LG Smart Refrigerator,5,1499.99,7499.95,Australia,Debit Card
+10969,2024-03-11,Clothing,North Face Jacket,2,249.99,499.98,South America,Debit Card
+10970,2024-12-01,Home Appliances,Samsung Microwave Oven,1,249.99,249.99,Australia,Apple Pay
+10971,2024-03-01,Home Appliances,Samsung Microwave Oven,2,249.99,499.98,North America,Cash
+10972,2024-07-30,Books,Deep Work,4,29.99,119.96,Asia,Debit Card
+10973,2024-04-06,Electronics,Samsung Galaxy S23,2,899.99,1799.98,North America,Apple Pay
+10974,2024-11-11,Clothing,North Face Jacket,5,249.99,1249.95,Australia,Debit Card
+10975,2024-11-01,Home Appliances,LG Smart Refrigerator,1,1499.99,1499.99,Asia,Credit Card
+10976,2024-12-18,Books,Clean Code,5,39.99,199.95,Australia,PayPal
+10977,2024-12-30,Clothing,Nike Air Force 1 Sneakers,4,109.99,439.96,South America,PayPal
+10978,2024-03-11,Home Appliances,LG Smart Refrigerator,2,1499.99,2999.98,North America,PayPal
+10979,2024-01-08,Clothing,Uniqlo Cotton T-Shirt,2,19.99,39.98,Europe,Debit Card
+10980,2024-02-03,Home Appliances,Philips Air Fryer,5,199.99,999.95,South America,Cash
+10981,2024-08-22,Home Appliances,Philips Air Fryer,4,199.99,799.96,North America,Apple Pay
+10982,2024-07-13,Clothing,Uniqlo Cotton T-Shirt,5,19.99,99.95,Australia,Apple Pay
+10983,2024-10-01,Electronics,iPad Pro 11,1,799.99,799.99,South America,PayPal
+10984,2024-01-22,Home Appliances,Bosch Washing Machine,5,899.99,4499.95,South America,Credit Card
+10985,2024-10-12,Books,Python Crash Course,1,34.99,34.99,Europe,Cash
+10986,2024-08-13,Books,Deep Work,3,29.99,89.97,South America,Debit Card
+10987,2024-08-04,Clothing,North Face Jacket,1,249.99,249.99,Australia,Debit Card
+10988,2024-08-25,Books,Atomic Habits,5,24.99,124.95,North America,Debit Card
+10989,2024-10-26,Home Appliances,Philips Air Fryer,4,199.99,799.96,Asia,PayPal
+10990,2024-01-13,Home Appliances,Philips Air Fryer,5,199.99,999.95,Europe,PayPal
+10991,2024-02-16,Clothing,Adidas Hoodie,2,69.99,139.98,North America,Credit Card
+10992,2024-02-28,Books,Deep Work,1,29.99,29.99,Australia,PayPal
+10993,2024-09-18,Home Appliances,Philips Air Fryer,5,199.99,999.95,South America,Credit Card
+10994,2024-03-28,Clothing,North Face Jacket,2,249.99,499.98,Europe,Debit Card
+10995,2024-04-01,Electronics,Sony WH-1000XM5 Headphones,3,399.99,1199.97,Asia,PayPal
+10996,2024-05-27,Home Appliances,Dyson V11 Vacuum Cleaner,2,599.99,1199.98,Europe,Credit Card
+10997,2024-11-14,Clothing,Levi's 501 Jeans,4,79.99,319.96,South America,PayPal
+10998,2024-10-05,Electronics,iPad Pro 11,4,799.99,3199.96,Europe,Debit Card
+10999,2024-10-28,Books,The Pragmatic Programmer,4,44.99,179.96,South America,Credit Card
+11000,2024-11-03,Electronics,Samsung Galaxy S23,5,899.99,4499.95,Asia,Apple Pay
